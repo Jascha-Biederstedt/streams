@@ -22,6 +22,12 @@
       "description": "This is the history test description",
       "userId": "115912500904817531992",
       "id": 4
+    },
+    {
+      "title": "This is the refactor stream",
+      "description": "This is the refactor description",
+      "userId": "115912500904817531992",
+      "id": 5
     }
   ]
 }
