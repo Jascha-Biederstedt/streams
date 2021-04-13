@@ -10,6 +10,18 @@
       "description": "What a great description",
       "userId": "115912500904817531992",
       "id": 2
+    },
+    {
+      "title": "A very interesting stream",
+      "description": "A more interesting description",
+      "userId": "115912500904817531992",
+      "id": 3
+    },
+    {
+      "title": "This is the history test stream",
+      "description": "This is the history test description",
+      "userId": "115912500904817531992",
+      "id": 4
     }
   ]
 }
