@@ -6,20 +6,18 @@
       "id": 1
     },
     {
-      "title": "This is another stream",
-      "description": "What a great description",
-      "userId": "115912500904817531992",
+      "title": "This is the edit Stream",
+      "description": "This is the edit description",
       "id": 2
     },
     {
-      "title": "A very interesting stream",
-      "description": "A more interesting description",
-      "userId": "115912500904817531992",
+      "title": "This is the edit history stream",
+      "description": "This is the edit history description",
       "id": 3
     },
     {
-      "title": "This is the history test stream",
-      "description": "This is the history test description",
+      "title": "This is the patch test stream",
+      "description": "This is the patch test description",
       "userId": "115912500904817531992",
       "id": 4
     },
